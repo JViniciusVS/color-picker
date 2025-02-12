@@ -15,7 +15,7 @@ Este é um projeto de **Color Picker** desenvolvido em **React**, permitindo ao 
 - Atualização dinâmica da cor selecionada.  
 - Exibição do código hexadecimal da cor escolhida.
 
-![Prévia do Color Picker](assets/color-picker-preview.png)  
+![Prévia do Color Picker](/src/assets/color-picker-preview.png)  
 
 ## 📜 Licença
 
