@@ -5,8 +5,7 @@ Este é um projeto de **Color Picker** desenvolvido em **React**, permitindo ao 
 ## 🛠 Tecnologias Utilizadas
 
 - React.js  
-- TypeScript (se aplicável)  
-- Tailwind CSS (se aplicável)  
+- CSS 
 
 ## 🎨 Funcionalidades
 
